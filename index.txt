@@ -1,0 +1,21 @@
+"use strict"
+// Caracteristicas de un carro
+
+let model= 'Nissan-NAVARA';
+  
+
+let year= '2011';
+
+
+let plate= 'PPA-3519';
+
+
+let color= 'Silver';
+
+
+let engine= '2488 cc Diesel Engine with 4 cylinders';
+
+
+let carDescription = `This ${model} ${plate} ${color} (${year}) has a motor ${engine}`;
+
+alert ('Car Description: '+`This ${model} ${plate} ${color} (${year}) has a motor ${engine}`); 
